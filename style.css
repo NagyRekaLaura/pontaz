@@ -33,7 +33,7 @@ h2{
     --c: black;
 }
 
-body :has(#checkbox:checked){
+body:has(#szin:checked){
     --c: red;
 }
 
