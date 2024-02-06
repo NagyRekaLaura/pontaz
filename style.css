@@ -38,3 +38,13 @@ body:has(#szin:checked) {
 h1 {
   color: var(--c);
 }
+
+@media only screen and (max-width: 600px) {
+  a {
+   color: red;
+ }
+ header {
+   display: none;
+ }
+ 
+}
