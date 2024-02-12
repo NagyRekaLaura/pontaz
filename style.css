@@ -1,4 +1,4 @@
-#fejlec {
+header {
   background-color: rgba(234, 182, 245, 0.911);
   margin-left: auto;
   margin-right: 0;
@@ -39,12 +39,3 @@ h1 {
   color: var(--c);
 }
 
-@media only screen and (max-width: 600px) {
-  a {
-   color: red;
- }
- header {
-   display: none;
- }
- 
-}
